@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Valentine's Day Husna ❤️</title>
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #ff4b7d, #ff9a9e);
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
+.container {
+    padding: 60px 20px;
+    animation: fadeIn 3s ease;
+}
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-weight: normal;
+}
+.photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius:
